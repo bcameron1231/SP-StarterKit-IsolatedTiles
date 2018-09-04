@@ -1,0 +1,19 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "26cb4af3-7f48-4737-b82a-4e24167c2d07",
+  "alias": "pnpTiles",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "preconfiguredEntries": [{
+    "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+    "group": { "default": "Other" },
+    "title": { "default": "Tiles" },
+    "description": { "default": "Lists links in tile format" },
+    "officeFabricIconFontName": "Tiles",
+    "properties": {
+      "title": "Useful tools"
+    }
+  }]
+}
